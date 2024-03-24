@@ -1,0 +1,13 @@
+Idea 1:
+electrocardiogram
+
+
+
+Idea 2:
+Apply named entity recognition to doctor's sentences 
+from medical records to extract useful information from those text.
+
+
+
+Idea 3:
+Diet recommendation for patient/people who are not feeling well.
