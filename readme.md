@@ -1,7 +1,7 @@
 ## BiLSTM For Named Entity Recognition In Medical Dataset
 
 ### Getting Started
-To run our script, please install all the libraries in the requirements.txt by the following command:
+NER.ipynb is the notebook we used to load data, build, train and evaluate our models. To run the script, please install all the libraries in the requirements.txt by the following command:
 ```
 pip install -r requirements.txt
 ```
@@ -26,7 +26,7 @@ If you want to train the model by yourself and evaluate your own checkpoint, ple
 
 
 ### Result
-The evaluation of all the models are stored in an excel sheet under the result folder. We used accuracy, precision, recall and f1 as our metrics to compare the performance of all the models with different hyperparameters.
+The evaluation of all the models are stored in an excel sheet under the result folder. We used accuracy, precision, recall and f1 on an independent testing dataset to compare the performance of all the models with different hyperparameters.
 
 
 ### Prediction
